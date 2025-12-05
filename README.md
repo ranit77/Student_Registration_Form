@@ -76,6 +76,7 @@ Colour palette and shade ideas: https://coolors.co/
 **Ranit Ghosh**  
 Aspiring Java & Spring Boot Developer 
 
+
 ![StudensStudyGIF](https://github.com/user-attachments/assets/c7243aec-a2ad-4d99-9aad-859743a858a5)
 
 
