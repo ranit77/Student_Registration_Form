@@ -1,0 +1,89 @@
+* {
+  background-color: rgb(59, 51, 85);
+}
+h3 {
+  text-align: center;
+  background-color: aquamarine;
+  border: 2px dashed brown;
+  border-radius: 15px;
+}
+label {
+  color: white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+}
+
+#fname,
+#lname {
+  background-color: rgb(191, 205, 224);
+  color: black;
+}
+#gender {
+  background-color:rgb(191, 205, 224);
+  color: black;
+}
+#X {
+  color: rgb(0, 255, 255);
+  background-color: brown;
+}
+#XII {
+  color: rgb(0, 255, 255);
+  background-color: brown;
+}
+#class {
+  color: white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+}
+.subj {
+  color: rgb(0, 255, 255);
+  background-color: brown;
+}
+#classic {
+  color: white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px;
+}
+#ema {
+  background-color: rgb(191, 205, 224);
+  color: red;
+}
+#hello {
+  padding: 20px;
+  margin: 10px;
+  text-align: center;
+}
+#pha {
+  background-color: rgb(191, 205, 224);
+  color: black;
+}
+#final {
+  padding-top: 30px;
+}
+#uurl {
+  background-color: rgb(191, 205, 224);
+  color: black;
+}
+.submit {
+  background-color: cadetblue;
+}
+#img {
+  height: 20px;
+  width: 20px;
+}
+#cb {
+  margin-top: 25px;
+  margin-bottom: 1px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: cyan;
+}
+#anc,#ems
+{
+  position: absolute;
+  color: white;
+  text-decoration: none;
+}
+#imgs {
+  height: 20px;
+  width: 20px;
+}
