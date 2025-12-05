@@ -75,3 +75,7 @@ Colour palette and shade ideas: https://coolors.co/
 ## ✍️ Author
 **Ranit Ghosh**  
 Aspiring Java & Spring Boot Developer 
+
+
+![RecruitingRecruitmentGIF](https://github.com/user-attachments/assets/d503f89f-3b83-4779-bf0b-2f397ebd7051)
+
