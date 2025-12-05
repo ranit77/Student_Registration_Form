@@ -1,4 +1,5 @@
 🎓 Student Registration Form (HTML & CSS)
+
 This project is basically a Student Registration Form created using HTML and CSS. 
 
 🚀 Project Overview
@@ -28,8 +29,11 @@ Declaration Checkbox
 The form is styled with CSS to create a clean, user-friendly interface, including:
 
 ✔ Proper spacing/alignment for inputs
+
 ✔ Custom styled radio buttons & checkboxes
+
 ✔ Highlighted submit/reset buttons
+
 ✔ Soft color theme
 
 🧩 Features
