@@ -2,7 +2,7 @@
 
 This project is basically a Student Registration Form created using HTML and CSS. 
 
-🚀 Project Overview
+## 🚀 **Project Overview**
 
 This project collects essential student details including:
 
