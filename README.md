@@ -1,4 +1,4 @@
-## 🎓 ** Student Registration Form (HTML & CSS) **
+## 🎓 **Student Registration Form (HTML & CSS)**
 
 This project is basically a Student Registration Form created using HTML and CSS. 
 
