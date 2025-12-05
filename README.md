@@ -71,3 +71,7 @@ Designing visually balanced UI using colors and spacing
 Icons used within the website: https://icons8.com/
 
 Colour palette and shade ideas: https://coolors.co/
+
+## ✍️ Author
+**Ranit Ghosh**  
+Aspiring Java & Spring Boot Developer 
